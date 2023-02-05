@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/naveenbasyal)
 
-- 📝 I regularly write articles on [https://naveenbasyal.github.io/myportfolio](https://naveenbasyal.github.io/myportfolio)
+- 📝 I regularly write articles on [my site](https://naveenbasyal.github.io/myportfolio)
 
 - 📫 How to reach me **naveenbasyal.001@gmail.com**
 
