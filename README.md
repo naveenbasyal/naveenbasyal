@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **ExpressJs and MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://naveenbasyal.github.io/myportfolio](https://naveenbasyal.github.io/myportfolio)
+- 👨‍💻 All of my projects are available [here](https://github.com/naveenbasyal)
 
 - 📝 I regularly write articles on [https://naveenbasyal.github.io/myportfolio](https://naveenbasyal.github.io/myportfolio)
 
 - 📫 How to reach me **naveenbasyal.001@gmail.com**
 
-- 📄 Know about my experiences [https://naveenbasyal.github.io/myportfolio](https://naveenbasyal.github.io/myportfolio)
+- 📄 Know about my experiences [here](https://naveenbasyal.github.io/myportfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
