@@ -7,28 +7,22 @@
 <!-- Github contribution grid snake from action workflow -->
 <p align="center"><img alt="Snake GIF" src="https://github.com/Sanket-Mathur/Sanket-Mathur/blob/output/github-contribution-grid-snake.svg"></p>
 <br>
+<!-- Activity -->
+<h1 align="center">Activity</h1>
+<br>
+<p align="center">While I try to stay consistent, here is what I've put together so far.</p>
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenbasyal&theme=monokai">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveenbasyal&theme=monokai">&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveenbasyal&theme=monokai">
+</p>
 <!--GitHub Stats-->
 <p align="center"><img alt="naveenbasyal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naveenbasyal&theme=blue-green&hide_border=true"></p>
 <br>
-
-<!-- Know more about me -->
-<h1 align="center">Know more about me</h1>
-<br>
-<p align="center">A <i>coffee driven night owl</i> with an aim of always aquiring knowledge and skills.</p>
-<img align="right" alt="Octocat" height="250px" src="https://raw.githubusercontent.com/Sanket-Mathur/Sanket-Mathur/master/Images/octocat.png">
-<br>
-
-:dart: Wish to be a part of a revolutionary technology in its making  
-:telescope: Working on my skills in MERN , Back-End Development and Problem Solving  
-:seedling: Learning  Node Js and Express
-:eyes: Looking forward to collaborate and working on interesting problems  
-:bulb: Reading research papers is one of my recent hobbies  
-:ticket: I love attending events and talking about technology  
-:ear: Always interested in listening and discussing about new ideas  
-:hourglass: My scariest dream is wasting my life without a motive    
-
-<br>
-
 <!-- Language and Tools -->
 <h1 align="center">Languages and Tools</h1>
 <br>
@@ -64,19 +58,25 @@
 
 <br>
 
-<!-- Activity -->
-<h1 align="center">Activity</h1>
+<!-- Know more about me -->
+<h1 align="center">Know more about me</h1>
 <br>
-<p align="center">While I try to stay consistent, here is what I've put together so far.</p>
+<p align="center">A <i>coffee driven night owl</i> with an aim of always aquiring knowledge and skills.</p>
+<img align="right" alt="Octocat" height="250px" src="https://raw.githubusercontent.com/Sanket-Mathur/Sanket-Mathur/master/Images/octocat.png">
 <br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenbasyal&theme=monokai">
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveenbasyal&theme=monokai">&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveenbasyal&theme=monokai">
-</p>
+:dart: Wish to be a part of a revolutionary technology in its making  
+:telescope: Working on my skills in MERN , Back-End Development and Problem Solving  
+:seedling: Learning  Node Js and Express
+:eyes: Looking forward to collaborate and working on interesting problems  
+:bulb: Reading research papers is one of my recent hobbies  
+:ticket: I love attending events and talking about technology  
+:ear: Always interested in listening and discussing about new ideas  
+:hourglass: My scariest dream is wasting my life without a motive    
+
+<br>
+
+
 
 <!-- Connect with me -->
 <h1 align="center">Connect with me</h1>
