@@ -3,6 +3,13 @@
 <!-- Typing Widget -->
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;MERN+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12">
 
+  <p align="center">
+  <a href="https://open.spotify.com/collection/tracks">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify" />
+  </a>
+</p>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naveenbasyal&label=Profile%20views&color=0e75b6&style=flat" alt="naveenbasyal" /> </p>
 <!--GitHub Streak-->
 <p align="center"><img alt="Naveen Basyal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenbasyal&theme=dark&hide_border=true"></p>
