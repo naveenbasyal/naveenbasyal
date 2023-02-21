@@ -1,29 +1,100 @@
+<h1 align="center">Hi there, I'm Naveen Basyal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<h1 align="center">Hi 👋, I'm Naveen Basyal</h1>
-<h3 align="center">I'm a self-taught passionate FrontEnd developer from India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<!-- Typing Widget -->
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;MERN+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12">
+<!--GitHub Streak-->
+<p align="center"><img alt="Naveen Basyal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenbasyal&theme=dark&hide_border=true"></p>
+<!-- Github contribution grid snake from action workflow -->
+<p align="center"><img alt="Snake GIF" src="https://github.com/Sanket-Mathur/Sanket-Mathur/blob/output/github-contribution-grid-snake.svg"></p>
+<br>
+<!--GitHub Stats-->
+<p align="center"><img alt="naveenbasyal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naveenbasyal&theme=blue-green&hide_border=true"></p>
+<br>
 
-- 🔭 I’m currently working on [openai](https://github.com/naveenbasyal/openai)
+<!-- Know more about me -->
+<h1 align="center">Know more about me</h1>
+<br>
+<p align="center">A <i>coffee driven night owl</i> with an aim of always aquiring knowledge and skills.</p>
+<img align="right" alt="Octocat" height="250px" src="Images/octocat.png">
+<br>
 
-- 🌱 I’m currently learning **ExpressJs and MongoDb**
+:dart: Wish to be a part of a revolutionary technology in its making  
+:telescope: Working on my skills in MERN , Back-End Development and Problem Solving  
+:seedling: Learning  Node Js and Express
+:eyes: Looking forward to collaborate and working on interesting problems  
+:bulb: Reading research papers is one of my recent hobbies  
+:ticket: I love attending events and talking about technology  
+:ear: Always interested in listening and discussing about new ideas  
+:hourglass: My scariest dream is wasting my life without a motive    
 
-- 👨‍💻 All of my projects are available [here](https://github.com/naveenbasyal)
+<br>
 
-- 📝 I regularly write articles on [my site](https://naveenbasyal.github.io/myportfolio)
+<!-- Language and Tools -->
+<h1 align="center">Languages and Tools</h1>
+<br>
+<p align="center">Presenting you the tech stack I usually work with.</p>
+<br>
 
-- 📫 How to reach me **naveenbasyal.001@gmail.com**
+<p align="center">
+  <img alt="bootstap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">&emsp;
+  <img alt="C++" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">&emsp;
+  <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&emsp;
+  <img alt="HTML" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png">&emsp;
+  <img alt="CSS" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png">&emsp;
+  
+</p>
+<p align="center">
+  <img alt="Node" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">&emsp;
+  <img alt="MAterial" width="30px" src="https://mui.com/static/logo.png">&emsp;
+  <img alt="figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">&emsp;
+  <img alt="git" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png">&emsp;
 
-- 📄 Know about my experiences [here](https://naveenbasyal.github.io/myportfolio)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naveen-basyal-2744511a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/naveen-basyal-2744511a2" height="30" width="40" /></a>
-<a href="https://www.instagram.com/naveen___basyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/naveen___basyal/" height="30" width="40" /></a>
-<a href="https://dribbble.com/naveenbasyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/naveenbasyal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/naveenbasyal001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/naveenbasyal001/" height="30" width="40" /></a>
+</p>
+<p align="center">
+    <img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img alt="Next" width="30px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
+  <img alt="GitHub" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png">&emsp;  
+<p align="center">
+  <img alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png">&emsp;
+   <img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&emsp;
+</p>
+<p align="center">
+  <img alt="express js" width="30px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><br><br> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br>
 
-<h1 align="left">Naveen's Stats</h1><img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenbasyal&show_icons=true&theme=tokyonight">
+<!-- Activity -->
+<h1 align="center">Activity</h1>
+<br>
+<p align="center">While I try to stay consistent, here is what I've put together so far.</p>
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenbasyal&theme=monokai">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveenbasyal&theme=monokai">&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveenbasyal&theme=monokai">
+</p>
+
+<!-- Connect with me -->
+<h1 align="center">Connect with me</h1>
+<br>
+<p align="center">Whether you are willing to collaborate or just checking my activity, feel free to connect.</p>
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/naveen-basyal-2744511a2"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/naveen___basyal/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+<p align="center">
+  <a href="mailto:naveenbasyal.001@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+
+
+<!-- Buy me a coffee link -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/naveenbasyal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+</p>
