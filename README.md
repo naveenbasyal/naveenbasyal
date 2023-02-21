@@ -30,31 +30,29 @@
 <br>
 
 <p align="center">
-  <img alt="bootstap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">&emsp;
-  <img alt="C++" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png">&emsp;
-  <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&emsp;
-  <img alt="HTML" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/html-2752158-2284975.png">&emsp;
-  <img alt="CSS" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/css-131-722685.png">&emsp;
+   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>  
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 </p>
 <p align="center">
-  <img alt="Node" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">&emsp;
-  <img alt="MAterial" width="30px" src="https://mui.com/static/logo.png">&emsp;
-  <img alt="figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">&emsp;
-  <img alt="git" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png">&emsp;
-
+  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 <p align="center">
-    <img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img alt="Next" width="30px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
-  <img alt="GitHub" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png">&emsp;  
-<p align="center">
-  <img alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png">&emsp;
-   <img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">&emsp;
-</p>
-<p align="center">
-  <img alt="express js" width="30px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">
-</p>
+   <img alt="MAterial" width="30px" src="https://mui.com/static/logo.png"/>
+  <img alt="figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+     <img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+  <img alt="Next" width="30px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"/>
+   <img alt="bootstap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>&emsp;
+  <img alt="C++" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png"/>
+  </p> 
 
 <br>
 
