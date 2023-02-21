@@ -15,7 +15,7 @@
 <h1 align="center">Know more about me</h1>
 <br>
 <p align="center">A <i>coffee driven night owl</i> with an aim of always aquiring knowledge and skills.</p>
-<img align="right" alt="Octocat" height="250px" src="Images/octocat.png">
+<img align="right" alt="Octocat" height="250px" src="https://raw.githubusercontent.com/Sanket-Mathur/Sanket-Mathur/master/Images/octocat.png">
 <br>
 
 :dart: Wish to be a part of a revolutionary technology in its making  
