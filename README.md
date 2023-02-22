@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Naveen Basyal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<!-- Typing Widget -->
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;MERN+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12">
+<!-- Typing Widget 
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;MERN+Developer;Computer+Science+Student;Tech+Geek&font=sans-serif&center=true&size=12"> -->
 
   <p align="center">
   <a href="https://open.spotify.com/collection/tracks">
