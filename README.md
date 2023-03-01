@@ -58,9 +58,9 @@
 <p align="center">
    <img alt="MAterial" width="30px" src="https://mui.com/static/logo.png"/>
   <img alt="figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-     <img alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+     <img alt="React" width="100px" src="https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"/>
   <img alt="Next" width="30px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"/>
-   <img alt="bootstap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>&emsp;
+   <img alt="bootstap" width="110px" src="https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"/>&emsp;
   <img alt="C++" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png"/>
   </p> 
 
